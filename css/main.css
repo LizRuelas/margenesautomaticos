@@ -1,0 +1,13 @@
+div {
+	border:15px solid yellow;
+	width:200px;
+	height: 200px;
+}
+.caja1 {
+	padding: 20px 40px;
+	text-align: center;
+}
+.caja2 {
+	padding: 20px 40px;
+	margin-left: 35%;
+}
